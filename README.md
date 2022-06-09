@@ -24,7 +24,9 @@
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kannanpvm007&show_icons=true&theme=gotham" alt="kannanpvm007" />
+ <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kannanpvm007&show_icons=true&theme=gotham" alt="kannanpvm007" />
+  
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kannan-krishnan&show_icons=true&theme=gotham" alt="kannan-krishnan" />
 
 
 
