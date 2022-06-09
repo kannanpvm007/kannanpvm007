@@ -8,13 +8,23 @@
 <p><em> Android Developer at <a href="https://www.icliniq.com"> iCliniq</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
+
+
 [![Twitter: kannanpvm007](https://img.shields.io/twitter/follow/kannanpvm007?style=social)](https://twitter.com/kannanpvm007)
 [![Linkedin: kannanpvm007](https://img.shields.io/badge/-kannanpvm007-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kannanpvm007/)](https://www.linkedin.com/in/kannanpvm007/)
 [![GitHub kannanpvm007](https://img.shields.io/github/followers/kannanpvm007?label=follow&style=social)](https://github.com/kannanpvm007)
 
 
+# Languages & Tools 👨‍💻 🛠:
+</br>
+
+<p align="center">
+ 
 
 
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kannanpvm007&show_icons=true&theme=gotham" alt="kannanpvm007" />
 
 
 
@@ -42,3 +52,4 @@ Here are some ideas to get you started:
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+ 
