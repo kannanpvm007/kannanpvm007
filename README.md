@@ -2,32 +2,44 @@
 
 
 
-<h2> Hi, I'm Kannan Ramakrishnan! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Kannan Ramakrishnan! </h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <!-- <p><em>Android developer at <a href="https://www.icliniq.com/">Icliniq</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> --->
-<p><em> Android Developer at <a href="https://www.icliniq.com"> iCliniq</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em> Android Developer at <a href="https://www.icliniq.com"> iCliniq</a> 
 </em></p>
 
 
 
-[![Twitter: kannanpvm007](https://img.shields.io/twitter/follow/kannanpvm007?style=social)](https://twitter.com/kannanpvm007)
-[![Linkedin: kannanpvm007](https://img.shields.io/badge/-kannanpvm007-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kannanpvm007/)](https://www.linkedin.com/in/kannanpvm007/)
-[![GitHub kannanpvm007](https://img.shields.io/github/followers/kannanpvm007?label=follow&style=social)](https://github.com/kannanpvm007)
+
 
 
 # Languages & Tools 👨‍💻 🛠:
-</br>
 
+
+* Java
+* Android
+* Kotlin
+* String MVC
+* Servlet
+
+# Connect me :raising_hand: :
+[![Twitter: kannanpvm007](https://img.shields.io/twitter/follow/kannanpvm007?style=social)](https://twitter.com/kannanpvm007)
+<br>
+[![Linkedin: kannanpvm007](https://img.shields.io/badge/-kannanpvm007-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kannanpvm007/)](https://www.linkedin.com/in/kannanpvm007/)
+<br>
+[![GitHub kannanpvm007](https://img.shields.io/github/followers/kannanpvm007?label=follow&style=social)](https://github.com/kannanpvm007)
+
+ 
 <p align="center">
  
 
-
+<!--
 📈 my github stats
 
  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kannanpvm007&show_icons=true&theme=gotham" alt="kannanpvm007" />
   
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kannan-krishnan&show_icons=true&theme=gotham" alt="kannan-krishnan" />
-
+-->
 
 
 
@@ -52,6 +64,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<!--
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
- 
+ -->
