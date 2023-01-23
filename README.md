@@ -3,7 +3,7 @@
 
 
 <h2> Hi, I'm Kannan Ramakrishnan! </h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<!-- <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"> -->
 <!-- <p><em>Android developer at <a href="https://www.icliniq.com/">Icliniq</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> --->
 <p><em> Android Developer at <a href="https://www.icliniq.com"> iCliniq</a> 
 </em></p>
